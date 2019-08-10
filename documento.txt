@@ -1,3 +1,4 @@
 este es mi primer documento creado, 
 para practicar git
 AHORA aprendere a crear flujos de trabajo
+edicion en la rama creada
