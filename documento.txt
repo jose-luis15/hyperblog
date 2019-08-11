@@ -6,8 +6,8 @@ AHORA aprendere a crear flujos de trabajo
 para ver los cambios
 
 
-edicion en la rama creada
+2da edicion en la rama creada
 
-nuevo cambio para trabajar con la herramienta merge
+2do nuevo cambio para trabajar con la herramienta merge
 
 
