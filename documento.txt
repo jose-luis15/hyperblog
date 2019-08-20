@@ -12,4 +12,4 @@ para ver los cambios
 suscribete
 provare un cambio en git hub
 
-para practicar llaves creadas 2
+para practicar llaves creadas 2.2
